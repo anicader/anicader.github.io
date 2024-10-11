@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://anicader.github.io/sitemap.html.gz
+Sitemap: https://anicader.github.io/app/sitemap.html.gz
+Sitemap: https://anicader.github.io/assets/sitemap.html.gz
+Sitemap: https://anicader.github.io/css/sitemap.html.gz
+Sitemap: https://anicader.github.io/includes/sitemap.html.gz
+Sitemap: https://anicader.github.io/item/sitemap.html.gz
+Sitemap: https://anicader.github.io/src/sitemap.html.gz
